@@ -30,7 +30,7 @@ function TimelinePage() {
 
   return (
     <Page
-      kicker="1947 \u2014 2026"
+      kicker="1947 — 2026"
       title="A hill, a denial, and sixty-seven years of the same argument."
       lede="Every entry below is in the public record. The list is short on purpose. It leaves out ghost stories, movie ranches, and any death toll that cannot name its study."
     >

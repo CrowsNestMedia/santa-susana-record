@@ -25,7 +25,7 @@ function SourcesPage() {
         {sources.map((source) => (
           <li key={source.id} className="border-t border-fg/15 pt-6">
             <p className="text-xs uppercase tracking-widest text-accent">
-              {source.outlet} \u00b7 {source.year}
+              {source.outlet} · {source.year}
             </p>
             <h2 className="mt-2 font-serif text-2xl">
               <a href={source.url} className="underline decoration-fg/15 underline-offset-4 hover:decoration-accent" rel="noreferrer">
